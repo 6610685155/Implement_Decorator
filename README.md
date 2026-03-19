@@ -8,3 +8,6 @@ you with got <filename>.key, <filename>.md5 amd <filename>.zip
   >jdecompress a.txt.zip -zip -des -md5
 
 ***option order is important***
+
+# Class Diagram
+![image](class_diagram.png)
