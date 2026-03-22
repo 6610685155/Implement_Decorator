@@ -3,7 +3,7 @@
 ## Compress and Encryption
   >jcompress filename -zip -des -md5
 
-you with got filename.key, filename.md5 amd filename.zip
+you will got filename.key, filename.md5 amd filename.zip
 
 ## Decompress and Decryption
   >jdecompress filename.zip -zip -des -md5
